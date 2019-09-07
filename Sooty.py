@@ -28,9 +28,9 @@ except:
 
 versionNo = '1.26'
 
-VT_API_KEY = '3d35dd69f41873dbf34aadc5d226e538b50a4c3e4aa9bca4b558a453485818f8'
-AB_API_KEY = 'f3bc0fb16fcd808636b3efb53f634871fca262a2efe45d1fd84d18d368eb85214633afe6724ae3e7'
-URLSCAN_IO_KEY = '093e224f-3248-4be7-ba27-082967f35146'
+VT_API_KEY = 'API KEY'
+AB_API_KEY = 'API KEY'
+URLSCAN_IO_KEY = 'API KEY'
 
 def switchMenu(choice):
     if choice == '1':
